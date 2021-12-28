@@ -4845,39 +4845,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/biscoff-blondies.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/biscoff-blondies-800x450.jpeg",
-                "alt": "Biscoff Biscuit Blondies",
-                "title": "Biscoff Biscuit Blondies",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Food",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20210827-141811-800x360.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/20210827-141811-800x360-512x288.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Food",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/choc-cake-1.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/choc-cake-1-800x450.jpeg",
-                "alt": "Chocolate drip cake",
-                "title": "Chocolate Drip Cake",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Food",
@@ -5010,7 +4984,7 @@
                 "active": false
               },
               {
-                "tags": "Food, Interior",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5023,14 +4997,40 @@
                 "active": false
               },
               {
-                "tags": "Drinks, Interior",
+                "tags": "Food",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/biscoff-blondies.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/biscoff-blondies-800x450.jpeg",
+                "alt": "Biscoff Biscuit Blondies",
+                "title": "Biscoff Biscuit Blondies",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Food",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/choc-cake-1.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/choc-cake-1-800x450.jpeg",
+                "alt": "Chocolate drip cake",
+                "title": "Chocolate Drip Cake",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/draught-taps.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/draught-taps-800x450.jpeg",
-                "alt": "Draught taps behind bar",
-                "title": "Draught Taps",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -5049,7 +5049,7 @@
                 "active": false
               },
               {
-                "tags": "Drinks, Interior",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -5062,33 +5062,33 @@
                 "active": false
               },
               {
-                "tags": "Drinks",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/vodka-1.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/vodka-1-800x450.jpeg",
-                "alt": "Bottles of vodka behind bar",
-                "title": "Vodka Bottles",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Drinks",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/whisky-1.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/whisky-1-800x450.jpeg",
-                "alt": "Bottles of alcohol behind the bar",
-                "title": "Whisky Bottles",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Drinks",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
