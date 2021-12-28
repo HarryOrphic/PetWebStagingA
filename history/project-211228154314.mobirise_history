@@ -62,7 +62,9 @@
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -4851,7 +4853,7 @@
                 "title": "Biscoff Biscuit Blondies",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Food",
@@ -5101,17 +5103,17 @@
                 "active": false
               },
               {
-                "tags": "Drinks",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/latte-art.jpeg",
-                "thumb": "@PROJECT_PATH@/assets/images/latte-art-800x450.jpeg",
-                "alt": "Latte art",
-                "title": "Latte Art",
+                "image": "@PROJECT_PATH@/assets/images/latte-art.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/latte-art-800x360.jpg",
+                "alt": "",
+                "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
