@@ -5076,7 +5076,7 @@ section.lazy-placeholder:after {
 }
 .cid-sSNdmgNcjK {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #4e4e4e;
 }
 .cid-sSNdmgNcjK P {
@@ -5107,6 +5107,52 @@ section.lazy-placeholder:after {
 .cid-sSNdK9lVOP .mbr-section-btn {
   color: #ffffff;
   text-align: left;
+}
+.cid-sSZaABXxTU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/coffee-bags.jpg");
+}
+.cid-sSZaABXxTU .card-img {
+  background-color: #fff;
+}
+.cid-sSZaABXxTU .card {
+  align-self: stretch;
+}
+.cid-sSZaABXxTU .card-box {
+  padding: 2rem;
+  background-color: #4e4e4e;
+}
+.cid-sSZaABXxTU h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-sSZaABXxTU p {
+  text-align: left;
+}
+.cid-sSZaABXxTU .mbr-text {
+  color: #ffffff;
+}
+.cid-sSZaABXxTU .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-sSZaABXxTU .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-sSZaABXxTU .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-sSZaABXxTU .card-title {
+  color: #ffffff;
 }
 .cid-sSNeIeWPIP {
   padding-top: 60px;
